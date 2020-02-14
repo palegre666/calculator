@@ -1,0 +1,19 @@
+.calculator {
+    border: thin solid black;
+    width: 30rem;
+}
+.calc {
+    padding: 10px;
+    width:7.3rem;
+    margin: 0px;
+    font-size: 1.5rem;
+}
+.display {
+    border: 1px solid pink;
+    text-align:right;
+    padding: 1rem;
+    font-size: 2rem;
+}
+h1 {
+    text-align: center;
+}
